@@ -1,5 +1,5 @@
 {
-  "name": "igdown",
+  "name": "@aromakelapa/igdown",
   "version": "1.0.0",
   "description": "Scrap data from a Instagram downloader and get direct info & url links from your Instagram post.",
   "main": "index.js",
