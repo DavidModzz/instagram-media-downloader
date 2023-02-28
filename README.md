@@ -3,7 +3,7 @@ Scrap data from a Instagram Video, Photo downloader and get direct info & url li
 
 ## Install
 ```
-npm install @aromakelapa/igdown
+npm install igdown-scrapper
 ```
 
 ## Changelog
@@ -12,7 +12,7 @@ npm install @aromakelapa/igdown
 
 ## Usage
 ```
-const igdown = require('@aromakelapa/igdown');
+const igdown = require('igdown-scrapper');
 
 const link = "https://www.instagram.com/reel/CpG_5lqDJsh/";
 
