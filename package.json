@@ -1,6 +1,6 @@
 {
   "name": "igdown-scrapper",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Scrap data from a Instagram downloader and get direct info & url links from your Instagram post.",
   "main": "index.js",
   "scripts": {
