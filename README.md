@@ -7,7 +7,7 @@ npm install igdown-scrapper
 ```
 
 ## Changelog
-- #### v1.1.0
+- #### v2.0.0
   - Change api.
 
 ## Usage

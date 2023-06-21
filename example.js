@@ -1,6 +1,6 @@
 const igdown = require('./index.js');
 
-igdown('https://www.instagram.com/reel/CpG_5lqDJsh/')
+igdown('https://www.instagram.com/reel/CteTr7sswrJ')
   .then((res) => {
     console.log(res);
   })
